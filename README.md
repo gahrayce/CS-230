@@ -35,4 +35,4 @@ Q: How did you interpret the user’s needs and implement them into your softwar
 
 Q: How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?”
 
-
+> The most valuable technique was thoroughly analyzing client, user, and technical requirements. The design document is incredibly helpful. I learned very early in my computer science education that pseudocode and planning make or break the program; similarly, without thorough evaluation of requirements, development is directionless.
